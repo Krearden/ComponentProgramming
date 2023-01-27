@@ -1,4 +1,4 @@
-Public Class Point
+<Serializable> Public Class Point
     Implements IComparable
     Public Property X As Integer
     Public Property Y As Integer

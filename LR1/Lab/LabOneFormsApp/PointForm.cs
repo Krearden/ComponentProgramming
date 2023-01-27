@@ -1,3 +1,4 @@
+using System.Runtime.Serialization.Formatters.Binary;
 using Point = PointLib.Point;
 
 namespace LabOneFormsApp
@@ -40,9 +41,18 @@ namespace LabOneFormsApp
             var dlg = new SaveFileDialog();
             dlg.Filter = "SOAP|*.soap|XML|*.xml|JSON|*.json|Binary|*.bin";
 
-            if (dlg.ShowDialog() == DialogResult.OK)
+            if (dlg.ShowDialog() != DialogResult.OK)
+                return;
+
+            using (var fs = new FileStream(dlg.FileName, FileMode.Create, FileAccess.Write))
             {
-                MessageBox.Show(dlg.FileName);
+                switch (Path.GetExtension(dlg.FileName))
+                {
+                    case ".bin":
+                        var bf = new BinaryFormatter();
+                        bf.Serialize(fs, points);
+                        break;
+                }
             }
         }
 
@@ -51,10 +61,22 @@ namespace LabOneFormsApp
             var dlg = new OpenFileDialog();
             dlg.Filter = "SOAP|*.soap|XML|*.xml|JSON|*.json|Binary|*.bin";
 
-            if (dlg.ShowDialog() == DialogResult.OK)
+            if (dlg.ShowDialog() != DialogResult.OK)
+                return;
+
+            using (var fs = new FileStream(dlg.FileName, FileMode.Open, FileAccess.Read))
             {
-                MessageBox.Show(dlg.FileName);
+                switch (Path.GetExtension(dlg.FileName))
+                {
+                    case ".bin":
+                        var bf = new BinaryFormatter();
+                        points = (Point[])bf.Deserialize(fs);
+                        break;
+                }
             }
+
+            listBox.DataSource = null;
+            listBox.DataSource = points;
         }
     }
 }

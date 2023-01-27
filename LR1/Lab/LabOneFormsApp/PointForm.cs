@@ -18,10 +18,10 @@ namespace LabOneFormsApp
         private void buttonCreate_Click(object sender, EventArgs e)
         {
             points = new Point[5];
+            var rnd = new Random();
             for (int i = 0; i < points.Length; i++)
             {
-                points[i] = new Point();
-
+                points[i] = rnd.Next(3) % 2 == 0 ? new Point() : new Point3D();
             }
             listBox.DataSource = points;
         }

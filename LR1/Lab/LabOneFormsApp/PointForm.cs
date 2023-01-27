@@ -34,5 +34,27 @@ namespace LabOneFormsApp
             listBox.DataSource = null;
             listBox.DataSource = points;
         }
+
+        private void buttonSerialize_Click(object sender, EventArgs e)
+        {
+            var dlg = new SaveFileDialog();
+            dlg.Filter = "SOAP|*.soap|XML|*.xml|JSON|*.json|Binary|*.bin";
+
+            if (dlg.ShowDialog() == DialogResult.OK)
+            {
+                MessageBox.Show(dlg.FileName);
+            }
+        }
+
+        private void buttonDeserialize_Click(object sender, EventArgs e)
+        {
+            var dlg = new OpenFileDialog();
+            dlg.Filter = "SOAP|*.soap|XML|*.xml|JSON|*.json|Binary|*.bin";
+
+            if (dlg.ShowDialog() == DialogResult.OK)
+            {
+                MessageBox.Show(dlg.FileName);
+            }
+        }
     }
 }

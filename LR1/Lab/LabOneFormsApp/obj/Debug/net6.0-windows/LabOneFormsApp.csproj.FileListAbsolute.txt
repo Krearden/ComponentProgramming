@@ -18,3 +18,5 @@ C:\Users\User\Documents\ComponentProgramming\LR1\Lab\LabOneFormsApp\obj\Debug\ne
 C:\Users\User\Documents\ComponentProgramming\LR1\Lab\LabOneFormsApp\obj\Debug\net6.0-windows\LabOneFormsApp.pdb
 C:\Users\User\Documents\ComponentProgramming\LR1\Lab\LabOneFormsApp\obj\Debug\net6.0-windows\LabOneFormsApp.genruntimeconfig.cache
 C:\Users\User\Documents\ComponentProgramming\LR1\Lab\LabOneFormsApp\obj\Debug\net6.0-windows\ref\LabOneFormsApp.dll
+C:\Users\User\Documents\ComponentProgramming\LR1\Lab\LabOneFormsApp\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Documents\ComponentProgramming\LR1\Lab\LabOneFormsApp\bin\Debug\net6.0-windows\SoapFormatter.dll

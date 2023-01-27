@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LabOneFormsApp/1.0.0": {
+        "dependencies": {
+          "PointLib": "1.0.0"
+        },
+        "runtime": {
+          "LabOneFormsApp.dll": {}
+        }
+      },
+      "PointLib/1.0.0": {
+        "runtime": {
+          "PointLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LabOneFormsApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PointLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

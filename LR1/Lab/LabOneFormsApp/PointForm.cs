@@ -1,4 +1,5 @@
 using Newtonsoft.Json;
+using System.Drawing;
 using System.Runtime.Serialization.Formatters.Binary;
 using System.Runtime.Serialization.Formatters.Soap;
 using System.Xml.Serialization;
@@ -9,6 +10,7 @@ namespace LabOneFormsApp
     public partial class Form1 : Form
     {
         private Point[] points = null;
+        private Point3D[] points3d = null;
         public Form1()
         {
             InitializeComponent();
@@ -97,9 +99,56 @@ namespace LabOneFormsApp
                         points = (Point[])xf.Deserialize(fs);
                         break;
                     case ".json":
-                        var jf = new JsonSerializer();
-                        using (var r = new StreamReader(fs))
-                            points = (Point[])jf.Deserialize(r, typeof(Point3D[]));
+                        var reader = new StreamReader(fs).ReadToEnd();
+                        var jsonFile = JsonConvert.DeserializeObject<List<Dictionary<string, int>>>(reader);
+
+                        if (jsonFile != null)
+                        {
+                            points = new Point[jsonFile.Count];
+
+                            for (int i = 0; i < jsonFile.Count; i++)
+                            {
+                                var pointDict = jsonFile[i];
+
+                                switch (pointDict.Count)
+                                {
+                                    case 2:
+                                        points[i] = new Point(pointDict["X"], pointDict["Y"]);
+                                        break;
+
+                                    case 3:
+                                        points[i] = new Point3D(pointDict["X"], pointDict["Y"], pointDict["Z"]);
+                                        break;
+                                }
+                            }
+                        }
+                        else
+                        {
+                            points = null;
+                        }
+                        //var jf = new JsonSerializer();
+                        //var reader = new StreamReader(fs).ReadToEnd();
+                        //var jsonFile = JsonConvert.DeserializeObject<List<Dictionary<string, int>>>(reader);
+                        //if (jsonFile != null)
+                        //{
+                        //    points = new Point[jsonFile.Count];
+                        //    for (int i = 0; i < jsonFile.Count; i++)
+                        //    {
+                        //        if (jsonFile[i].Count == 2)
+                        //        {
+                        //            points[i] = new Point(jsonFile[i]["X"], jsonFile[i]["Y"]);
+                        //        }
+                        //        else if (jsonFile[i].Count == 3)
+                        //        {
+                        //            points[i] = new Point3D(jsonFile[i]["X"], jsonFile[i]["Y"], jsonFile[i]["Z"]);
+                        //        }
+                        //    }
+                        //}
+                        //else
+                        //{
+                        //    points = new Point[1];
+                        //}
+
                         break;
                         //суть проблемы - при десериализации программа создает новые объекты point3d с тремя переменными.
                         //причем в файле могут быть оъекты point только с двумя переменными

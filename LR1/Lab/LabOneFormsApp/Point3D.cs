@@ -7,6 +7,7 @@ using Point = PointLib.Point;
 
 namespace LabOneFormsApp
 {
+
     [Serializable]
     public class Point3D : Point
     {
@@ -31,4 +32,18 @@ namespace LabOneFormsApp
             return string.Format($"(x = {X} , y = {Y}, z = {Z})");
         }
     }
+
+    [Serializable]
+    public class PointWrapper : Point3D
+    {
+        public int Z_copy { get; set; }
+        public PointWrapper(int x, int y, int z) : base(x, y, z)
+        {
+            this.X = x;
+            this.Y = y;
+            this.Z = z;
+            this.Z_copy = z;
+        }
+    }
+
 }

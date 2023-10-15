@@ -1,0 +1,9 @@
+C:\Users\User\Documents\IlyaCPLabs\Лаба 4\ExtensionModules\ColorfulToGrayPlugin\obj\Debug\ColorfulToGrayPlugin.csproj.AssemblyReference.cache
+C:\Users\User\Documents\IlyaCPLabs\Лаба 4\ExtensionModules\ColorfulToGrayPlugin\obj\Debug\ColorfulToGrayPlugin.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IlyaCPLabs\Лаба 4\ExtensionModules\ColorfulToGrayPlugin\bin\Debug\ColorfulToGrayPlugin.dll
+C:\Users\User\Documents\IlyaCPLabs\Лаба 4\ExtensionModules\ColorfulToGrayPlugin\bin\Debug\ColorfulToGrayPlugin.pdb
+C:\Users\User\Documents\IlyaCPLabs\Лаба 4\ExtensionModules\ColorfulToGrayPlugin\bin\Debug\PluginInterface.dll
+C:\Users\User\Documents\IlyaCPLabs\Лаба 4\ExtensionModules\ColorfulToGrayPlugin\bin\Debug\PluginInterface.pdb
+C:\Users\User\Documents\IlyaCPLabs\Лаба 4\ExtensionModules\ColorfulToGrayPlugin\obj\Debug\ColorfulToGrayPlugin.csproj.CopyComplete
+C:\Users\User\Documents\IlyaCPLabs\Лаба 4\ExtensionModules\ColorfulToGrayPlugin\obj\Debug\ColorfulToGrayPlugin.dll
+C:\Users\User\Documents\IlyaCPLabs\Лаба 4\ExtensionModules\ColorfulToGrayPlugin\obj\Debug\ColorfulToGrayPlugin.pdb

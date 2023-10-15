@@ -1,0 +1,12 @@
+D:\source\repos\ComponentProgramming\ExtensionModules\PluginInterface\bin\Debug\PluginInterface.dll
+D:\source\repos\ComponentProgramming\ExtensionModules\PluginInterface\bin\Debug\PluginInterface.pdb
+D:\source\repos\ComponentProgramming\ExtensionModules\PluginInterface\obj\Debug\PluginInterface.csproj.AssemblyReference.cache
+D:\source\repos\ComponentProgramming\ExtensionModules\PluginInterface\obj\Debug\PluginInterface.csproj.CoreCompileInputs.cache
+D:\source\repos\ComponentProgramming\ExtensionModules\PluginInterface\obj\Debug\PluginInterface.dll
+D:\source\repos\ComponentProgramming\ExtensionModules\PluginInterface\obj\Debug\PluginInterface.pdb
+C:\Users\User\Documents\IlyaCPLabs\Лаба 4\ExtensionModules\PluginInterface\bin\Debug\PluginInterface.dll
+C:\Users\User\Documents\IlyaCPLabs\Лаба 4\ExtensionModules\PluginInterface\bin\Debug\PluginInterface.pdb
+C:\Users\User\Documents\IlyaCPLabs\Лаба 4\ExtensionModules\PluginInterface\obj\Debug\PluginInterface.csproj.AssemblyReference.cache
+C:\Users\User\Documents\IlyaCPLabs\Лаба 4\ExtensionModules\PluginInterface\obj\Debug\PluginInterface.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IlyaCPLabs\Лаба 4\ExtensionModules\PluginInterface\obj\Debug\PluginInterface.dll
+C:\Users\User\Documents\IlyaCPLabs\Лаба 4\ExtensionModules\PluginInterface\obj\Debug\PluginInterface.pdb

@@ -1,0 +1,18 @@
+D:\source\repos\ComponentProgramming\ExtensionModules\ReversePlugin\bin\Debug\ReversePlugin.dll
+D:\source\repos\ComponentProgramming\ExtensionModules\ReversePlugin\bin\Debug\ReversePlugin.pdb
+D:\source\repos\ComponentProgramming\ExtensionModules\ReversePlugin\bin\Debug\PluginInterface.dll
+D:\source\repos\ComponentProgramming\ExtensionModules\ReversePlugin\bin\Debug\PluginInterface.pdb
+D:\source\repos\ComponentProgramming\ExtensionModules\ReversePlugin\obj\Debug\ReversePlugin.csproj.AssemblyReference.cache
+D:\source\repos\ComponentProgramming\ExtensionModules\ReversePlugin\obj\Debug\ReversePlugin.csproj.CoreCompileInputs.cache
+D:\source\repos\ComponentProgramming\ExtensionModules\ReversePlugin\obj\Debug\ReversePlugin.csproj.CopyComplete
+D:\source\repos\ComponentProgramming\ExtensionModules\ReversePlugin\obj\Debug\ReversePlugin.dll
+D:\source\repos\ComponentProgramming\ExtensionModules\ReversePlugin\obj\Debug\ReversePlugin.pdb
+C:\Users\User\Documents\IlyaCPLabs\Лаба 4\ExtensionModules\ReversePlugin\bin\Debug\ReversePlugin.dll
+C:\Users\User\Documents\IlyaCPLabs\Лаба 4\ExtensionModules\ReversePlugin\bin\Debug\ReversePlugin.pdb
+C:\Users\User\Documents\IlyaCPLabs\Лаба 4\ExtensionModules\ReversePlugin\bin\Debug\PluginInterface.dll
+C:\Users\User\Documents\IlyaCPLabs\Лаба 4\ExtensionModules\ReversePlugin\bin\Debug\PluginInterface.pdb
+C:\Users\User\Documents\IlyaCPLabs\Лаба 4\ExtensionModules\ReversePlugin\obj\Debug\ReversePlugin.csproj.AssemblyReference.cache
+C:\Users\User\Documents\IlyaCPLabs\Лаба 4\ExtensionModules\ReversePlugin\obj\Debug\ReversePlugin.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IlyaCPLabs\Лаба 4\ExtensionModules\ReversePlugin\obj\Debug\ReversePlugin.csproj.CopyComplete
+C:\Users\User\Documents\IlyaCPLabs\Лаба 4\ExtensionModules\ReversePlugin\obj\Debug\ReversePlugin.dll
+C:\Users\User\Documents\IlyaCPLabs\Лаба 4\ExtensionModules\ReversePlugin\obj\Debug\ReversePlugin.pdb

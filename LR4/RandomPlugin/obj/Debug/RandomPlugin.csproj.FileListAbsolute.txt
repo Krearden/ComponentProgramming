@@ -1,0 +1,18 @@
+D:\source\repos\ComponentProgramming\ExtensionModules\RandomPlugin\bin\Debug\RandomPlugin.dll
+D:\source\repos\ComponentProgramming\ExtensionModules\RandomPlugin\bin\Debug\RandomPlugin.pdb
+D:\source\repos\ComponentProgramming\ExtensionModules\RandomPlugin\bin\Debug\PluginInterface.dll
+D:\source\repos\ComponentProgramming\ExtensionModules\RandomPlugin\bin\Debug\PluginInterface.pdb
+D:\source\repos\ComponentProgramming\ExtensionModules\RandomPlugin\obj\Debug\RandomPlugin.csproj.AssemblyReference.cache
+D:\source\repos\ComponentProgramming\ExtensionModules\RandomPlugin\obj\Debug\RandomPlugin.csproj.CoreCompileInputs.cache
+D:\source\repos\ComponentProgramming\ExtensionModules\RandomPlugin\obj\Debug\RandomPlugin.csproj.CopyComplete
+D:\source\repos\ComponentProgramming\ExtensionModules\RandomPlugin\obj\Debug\RandomPlugin.dll
+D:\source\repos\ComponentProgramming\ExtensionModules\RandomPlugin\obj\Debug\RandomPlugin.pdb
+C:\Users\User\Documents\IlyaCPLabs\Лаба 4\ExtensionModules\RandomPlugin\bin\Debug\RandomPlugin.dll
+C:\Users\User\Documents\IlyaCPLabs\Лаба 4\ExtensionModules\RandomPlugin\bin\Debug\RandomPlugin.pdb
+C:\Users\User\Documents\IlyaCPLabs\Лаба 4\ExtensionModules\RandomPlugin\bin\Debug\PluginInterface.dll
+C:\Users\User\Documents\IlyaCPLabs\Лаба 4\ExtensionModules\RandomPlugin\bin\Debug\PluginInterface.pdb
+C:\Users\User\Documents\IlyaCPLabs\Лаба 4\ExtensionModules\RandomPlugin\obj\Debug\RandomPlugin.csproj.AssemblyReference.cache
+C:\Users\User\Documents\IlyaCPLabs\Лаба 4\ExtensionModules\RandomPlugin\obj\Debug\RandomPlugin.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IlyaCPLabs\Лаба 4\ExtensionModules\RandomPlugin\obj\Debug\RandomPlugin.csproj.CopyComplete
+C:\Users\User\Documents\IlyaCPLabs\Лаба 4\ExtensionModules\RandomPlugin\obj\Debug\RandomPlugin.dll
+C:\Users\User\Documents\IlyaCPLabs\Лаба 4\ExtensionModules\RandomPlugin\obj\Debug\RandomPlugin.pdb

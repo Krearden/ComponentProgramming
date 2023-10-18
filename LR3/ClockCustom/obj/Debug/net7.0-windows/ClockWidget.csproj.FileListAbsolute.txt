@@ -1,0 +1,42 @@
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab_chuvak\WinFormsControlLab\ClockCustom\bin\Debug\net7.0-windows\ClockWidget.exe
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab_chuvak\WinFormsControlLab\ClockCustom\bin\Debug\net7.0-windows\ClockWidget.deps.json
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab_chuvak\WinFormsControlLab\ClockCustom\bin\Debug\net7.0-windows\ClockWidget.runtimeconfig.json
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab_chuvak\WinFormsControlLab\ClockCustom\bin\Debug\net7.0-windows\ClockWidget.dll
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab_chuvak\WinFormsControlLab\ClockCustom\bin\Debug\net7.0-windows\ClockWidget.pdb
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab_chuvak\WinFormsControlLab\ClockCustom\obj\Debug\net7.0-windows\ClockWidget.csproj.AssemblyReference.cache
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab_chuvak\WinFormsControlLab\ClockCustom\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab_chuvak\WinFormsControlLab\ClockCustom\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab_chuvak\WinFormsControlLab\ClockCustom\obj\Debug\net7.0-windows\ClockWidget_MarkupCompile.cache
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab_chuvak\WinFormsControlLab\ClockCustom\obj\Debug\net7.0-windows\ClockWidget_MarkupCompile.lref
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab_chuvak\WinFormsControlLab\ClockCustom\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab_chuvak\WinFormsControlLab\ClockCustom\obj\Debug\net7.0-windows\ClockWidget.g.resources
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab_chuvak\WinFormsControlLab\ClockCustom\obj\Debug\net7.0-windows\ClockWidget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab_chuvak\WinFormsControlLab\ClockCustom\obj\Debug\net7.0-windows\ClockWidget.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab_chuvak\WinFormsControlLab\ClockCustom\obj\Debug\net7.0-windows\ClockWidget.AssemblyInfo.cs
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab_chuvak\WinFormsControlLab\ClockCustom\obj\Debug\net7.0-windows\ClockWidget.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab_chuvak\WinFormsControlLab\ClockCustom\obj\Debug\net7.0-windows\ClockWidget.dll
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab_chuvak\WinFormsControlLab\ClockCustom\obj\Debug\net7.0-windows\refint\ClockWidget.dll
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab_chuvak\WinFormsControlLab\ClockCustom\obj\Debug\net7.0-windows\ClockWidget.pdb
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab_chuvak\WinFormsControlLab\ClockCustom\obj\Debug\net7.0-windows\ClockWidget.genruntimeconfig.cache
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab_chuvak\WinFormsControlLab\ClockCustom\obj\Debug\net7.0-windows\ref\ClockWidget.dll
+C:\Users\User\Documents\VUZ\ComponentProgramming\LR3\ClockCustom\bin\Debug\net7.0-windows\ClockWidget.exe
+C:\Users\User\Documents\VUZ\ComponentProgramming\LR3\ClockCustom\bin\Debug\net7.0-windows\ClockWidget.deps.json
+C:\Users\User\Documents\VUZ\ComponentProgramming\LR3\ClockCustom\bin\Debug\net7.0-windows\ClockWidget.runtimeconfig.json
+C:\Users\User\Documents\VUZ\ComponentProgramming\LR3\ClockCustom\bin\Debug\net7.0-windows\ClockWidget.dll
+C:\Users\User\Documents\VUZ\ComponentProgramming\LR3\ClockCustom\bin\Debug\net7.0-windows\ClockWidget.pdb
+C:\Users\User\Documents\VUZ\ComponentProgramming\LR3\ClockCustom\obj\Debug\net7.0-windows\ClockWidget.csproj.AssemblyReference.cache
+C:\Users\User\Documents\VUZ\ComponentProgramming\LR3\ClockCustom\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\User\Documents\VUZ\ComponentProgramming\LR3\ClockCustom\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\User\Documents\VUZ\ComponentProgramming\LR3\ClockCustom\obj\Debug\net7.0-windows\ClockWidget_MarkupCompile.cache
+C:\Users\User\Documents\VUZ\ComponentProgramming\LR3\ClockCustom\obj\Debug\net7.0-windows\ClockWidget_MarkupCompile.lref
+C:\Users\User\Documents\VUZ\ComponentProgramming\LR3\ClockCustom\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\User\Documents\VUZ\ComponentProgramming\LR3\ClockCustom\obj\Debug\net7.0-windows\ClockWidget.g.resources
+C:\Users\User\Documents\VUZ\ComponentProgramming\LR3\ClockCustom\obj\Debug\net7.0-windows\ClockWidget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\VUZ\ComponentProgramming\LR3\ClockCustom\obj\Debug\net7.0-windows\ClockWidget.AssemblyInfoInputs.cache
+C:\Users\User\Documents\VUZ\ComponentProgramming\LR3\ClockCustom\obj\Debug\net7.0-windows\ClockWidget.AssemblyInfo.cs
+C:\Users\User\Documents\VUZ\ComponentProgramming\LR3\ClockCustom\obj\Debug\net7.0-windows\ClockWidget.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\VUZ\ComponentProgramming\LR3\ClockCustom\obj\Debug\net7.0-windows\ClockWidget.dll
+C:\Users\User\Documents\VUZ\ComponentProgramming\LR3\ClockCustom\obj\Debug\net7.0-windows\refint\ClockWidget.dll
+C:\Users\User\Documents\VUZ\ComponentProgramming\LR3\ClockCustom\obj\Debug\net7.0-windows\ClockWidget.pdb
+C:\Users\User\Documents\VUZ\ComponentProgramming\LR3\ClockCustom\obj\Debug\net7.0-windows\ClockWidget.genruntimeconfig.cache
+C:\Users\User\Documents\VUZ\ComponentProgramming\LR3\ClockCustom\obj\Debug\net7.0-windows\ref\ClockWidget.dll

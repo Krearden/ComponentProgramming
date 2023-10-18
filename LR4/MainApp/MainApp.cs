@@ -28,6 +28,7 @@ namespace MainApp
         }
 
 
+        //Метод - создаем диалоговое окошко, заполняем элемент DataGrid этого окошлка данными о загруженных плагинах
         private void ShowPlugins()
         {
             var dialog = new Dialog();
@@ -43,6 +44,7 @@ namespace MainApp
             dialog.ShowDialog();
         }
 
+        //Метод - с помощью рефлексии находит плагины в папке с приложением и загружает их сборки
         public void FindPlugins()
         {
             // папка с плагинами
@@ -82,6 +84,7 @@ namespace MainApp
 
         }
 
+        //Метод - поочередно добавляем загруженные плагины в Меню
         private void CreatePluginsMenu()
         {
             foreach (var name in plugins.Keys)
@@ -91,6 +94,9 @@ namespace MainApp
                 Menu.Items.Add(FiltersItem);
             }
         }
+
+        //Обработчик события "Нажатие на плагин в выпадающем меню"
+        //Применяет фукнцию плагина Transform к изображению в PictureBox
         private void OnPluginClick(object sender, EventArgs e)
         {
             var plugin = plugins[((ToolStripMenuItem)sender).Text];

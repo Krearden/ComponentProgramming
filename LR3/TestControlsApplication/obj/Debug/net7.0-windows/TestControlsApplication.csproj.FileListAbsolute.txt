@@ -1,0 +1,73 @@
+C:\Users\pesha\source\repos\WinFormsControlLab\TestControlsApplication\bin\Debug\net7.0-windows\TestControlsApplication.exe
+C:\Users\pesha\source\repos\WinFormsControlLab\TestControlsApplication\bin\Debug\net7.0-windows\TestControlsApplication.deps.json
+C:\Users\pesha\source\repos\WinFormsControlLab\TestControlsApplication\bin\Debug\net7.0-windows\TestControlsApplication.runtimeconfig.json
+C:\Users\pesha\source\repos\WinFormsControlLab\TestControlsApplication\bin\Debug\net7.0-windows\TestControlsApplication.dll
+C:\Users\pesha\source\repos\WinFormsControlLab\TestControlsApplication\bin\Debug\net7.0-windows\TestControlsApplication.pdb
+C:\Users\pesha\source\repos\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\TestControlsApplication.csproj.AssemblyReference.cache
+C:\Users\pesha\source\repos\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\TestControlsApplication.Form1.resources
+C:\Users\pesha\source\repos\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\TestControlsApplication.csproj.GenerateResource.cache
+C:\Users\pesha\source\repos\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\TestControlsApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pesha\source\repos\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\TestControlsApplication.AssemblyInfoInputs.cache
+C:\Users\pesha\source\repos\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\TestControlsApplication.AssemblyInfo.cs
+C:\Users\pesha\source\repos\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\TestControlsApplication.csproj.CoreCompileInputs.cache
+C:\Users\pesha\source\repos\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\TestControlsApplication.dll
+C:\Users\pesha\source\repos\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\refint\TestControlsApplication.dll
+C:\Users\pesha\source\repos\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\TestControlsApplication.pdb
+C:\Users\pesha\source\repos\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\TestControlsApplication.genruntimeconfig.cache
+C:\Users\pesha\source\repos\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\ref\TestControlsApplication.dll
+C:\Users\pesha\source\repos\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\TestControlsApplication.FilePathSelect.resources
+C:\Users\pesha\source\repos\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\TestControlsApplication.RGB.resources
+D:\study\3_cours\WinFormsControlLab\TestControlsApplication\bin\Debug\net7.0-windows\TestControlsApplication.exe
+D:\study\3_cours\WinFormsControlLab\TestControlsApplication\bin\Debug\net7.0-windows\TestControlsApplication.deps.json
+D:\study\3_cours\WinFormsControlLab\TestControlsApplication\bin\Debug\net7.0-windows\TestControlsApplication.runtimeconfig.json
+D:\study\3_cours\WinFormsControlLab\TestControlsApplication\bin\Debug\net7.0-windows\TestControlsApplication.dll
+D:\study\3_cours\WinFormsControlLab\TestControlsApplication\bin\Debug\net7.0-windows\TestControlsApplication.pdb
+D:\study\3_cours\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\TestControlsApplication.csproj.AssemblyReference.cache
+D:\study\3_cours\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\TestControlsApplication.Form1.resources
+D:\study\3_cours\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\TestControlsApplication.RGB.resources
+D:\study\3_cours\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\TestControlsApplication.csproj.GenerateResource.cache
+D:\study\3_cours\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\TestControlsApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\3_cours\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\TestControlsApplication.AssemblyInfoInputs.cache
+D:\study\3_cours\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\TestControlsApplication.AssemblyInfo.cs
+D:\study\3_cours\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\TestControlsApplication.csproj.CoreCompileInputs.cache
+D:\study\3_cours\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\TestControlsApplication.dll
+D:\study\3_cours\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\refint\TestControlsApplication.dll
+D:\study\3_cours\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\TestControlsApplication.pdb
+D:\study\3_cours\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\TestControlsApplication.genruntimeconfig.cache
+D:\study\3_cours\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\ref\TestControlsApplication.dll
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab\TestControlsApplication\bin\Debug\net7.0-windows\TestControlsApplication.exe
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab\TestControlsApplication\bin\Debug\net7.0-windows\TestControlsApplication.deps.json
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab\TestControlsApplication\bin\Debug\net7.0-windows\TestControlsApplication.runtimeconfig.json
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab\TestControlsApplication\bin\Debug\net7.0-windows\TestControlsApplication.dll
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab\TestControlsApplication\bin\Debug\net7.0-windows\TestControlsApplication.pdb
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\TestControlsApplication.csproj.AssemblyReference.cache
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\TestControlsApplication.Form1.resources
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\TestControlsApplication.RGB.resources
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\TestControlsApplication.csproj.GenerateResource.cache
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\TestControlsApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\TestControlsApplication.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\TestControlsApplication.AssemblyInfo.cs
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\TestControlsApplication.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\TestControlsApplication.dll
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\refint\TestControlsApplication.dll
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\TestControlsApplication.pdb
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\TestControlsApplication.genruntimeconfig.cache
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\ref\TestControlsApplication.dll
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab_chuvak\WinFormsControlLab\TestControlsApplication\bin\Debug\net7.0-windows\TestControlsApplication.exe
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab_chuvak\WinFormsControlLab\TestControlsApplication\bin\Debug\net7.0-windows\TestControlsApplication.deps.json
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab_chuvak\WinFormsControlLab\TestControlsApplication\bin\Debug\net7.0-windows\TestControlsApplication.runtimeconfig.json
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab_chuvak\WinFormsControlLab\TestControlsApplication\bin\Debug\net7.0-windows\TestControlsApplication.dll
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab_chuvak\WinFormsControlLab\TestControlsApplication\bin\Debug\net7.0-windows\TestControlsApplication.pdb
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab_chuvak\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\TestControlsApplication.csproj.AssemblyReference.cache
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab_chuvak\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\TestControlsApplication.RGB.resources
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab_chuvak\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\TestControlsApplication.csproj.GenerateResource.cache
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab_chuvak\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\TestControlsApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab_chuvak\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\TestControlsApplication.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab_chuvak\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\TestControlsApplication.AssemblyInfo.cs
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab_chuvak\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\TestControlsApplication.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab_chuvak\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\TestControlsApplication.dll
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab_chuvak\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\refint\TestControlsApplication.dll
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab_chuvak\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\TestControlsApplication.pdb
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab_chuvak\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\TestControlsApplication.genruntimeconfig.cache
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab_chuvak\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\ref\TestControlsApplication.dll
+C:\Users\User\Documents\CPLabs\Лаба 3\Danys\lab_3\WinFormsControlLab_chuvak\WinFormsControlLab\TestControlsApplication\obj\Debug\net7.0-windows\TestControlsApplication.Form.resources

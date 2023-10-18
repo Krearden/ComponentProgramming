@@ -57,7 +57,7 @@
             // 
             this.PictureBox.Image = global::MainApp.Properties.Resources.Lenna512;
             this.PictureBox.Location = new System.Drawing.Point(8, 23);
-            this.PictureBox.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.PictureBox.Margin = new System.Windows.Forms.Padding(2);
             this.PictureBox.Name = "PictureBox";
             this.PictureBox.Size = new System.Drawing.Size(512, 512);
             this.PictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
@@ -72,7 +72,7 @@
             this.Controls.Add(this.PictureBox);
             this.Controls.Add(this.Menu);
             this.MainMenuStrip = this.Menu;
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "MainApp";
             this.Text = "MainApp";
             this.Menu.ResumeLayout(false);
